@@ -1,0 +1,874 @@
+[
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fbpage.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_fbpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_circuit.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_circuit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\fragment_blank.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bar.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\develop.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\develop.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_startup.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_startup.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hackathon.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_hackathon.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_list_item.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bar.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_automation.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_automation.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\codeofcodons.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\codeofcodons.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bio.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_bio.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jpl.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\jpl.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scavenger.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_scavenger.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creative.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_creative.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hydrophilic.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\hydrophilic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_startup.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_startup.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_menu.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_debug.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_debug.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photoshop.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_photoshop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank3.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\fragment_blank3.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_feed_toolbar.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\view_feed_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_automation.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_automation.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_event.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\model_fbcard.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\model_fbcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sustainability.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_sustainability.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_project.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_feed_toolbar.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\view_feed_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_chooser_dialog.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fastcoding.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_fastcoding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_sustainability.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_sustainability.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_volume_control.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_volume_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_playback_control.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_playback_control.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_us.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_about_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_debate.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_debate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fastcoding.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_fastcoding.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_menu.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blindcoding.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_blindcoding.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fb_base.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\fb_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paper.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_paper.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_paper.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_paper.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_debate.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_debate.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_hackathon.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_hackathon.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_intro_overlay.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_intro_overlay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\hydrophilic.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\hydrophilic.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_global_menu_header.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\view_global_menu_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank3.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\fragment_blank3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_creative.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_creative.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bio.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_bio.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_execute.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_execute.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_accomodationform.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_accomodationform.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_project.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_layout.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blindcoding.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_blindcoding.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_execute.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_execute.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank4.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\fragment_blank4.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_mini_controller.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_mini_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\codeofcodons.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\codeofcodons.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fb_base.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\fb_base.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jpl.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\jpl.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scavenger.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_scavenger.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_circuit.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_circuit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_volume_item.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\layout\\mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\develop.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\develop.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_accomodationform.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_accomodationform.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_debug.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_debug.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_blank4.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\fragment_blank4.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\model_fbcard.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\model_fbcard.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\10.0.1\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_us.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_expanded_controller_activity.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_global_menu_header.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\view_global_menu_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_event.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fbpage.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\src\\main\\res\\layout\\activity_fbpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_contact_us.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_contact_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cast_help_text.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\10.0.1\\res\\layout\\cast_help_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\p2_vaio\\AndroidStudioProjects\\COMPLETE_CYBER_SRISHTI\\jiit2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photoshop.xml",
+        "source": "C:\\Users\\Bhavyam Goyal\\Desktop\\jiit2\\app\\src\\main\\res\\layout\\activity_photoshop.xml"
+    }
+]
